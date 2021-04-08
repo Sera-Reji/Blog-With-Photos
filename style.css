@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background-color: mediumpurple;
+}
+
+h1 {
+    text-decoration: underline;
+    text-decoration-color: hotpink;
+    color: aqua;
+}
+
+#gg {
+    color: aqua;
+}
+
+#section-style {
+    height: 100px;
+    width: 200px;
+}
+
+img {
+    width: 500px;
+}
+
+p {
+    color: aqua;
+}
+
+h2 {
+    color: hotpink;
+}
